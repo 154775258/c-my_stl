@@ -1,0 +1,37 @@
+﻿  main.cpp
+D:\c++\vs code\IDE\myStl\my_string.h(66,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\c++\vs code\IDE\myStl\my_string.h(86,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c++\vs code\IDE\myStl\my_string.h(95,12): warning C4154: 删除数组表达式；转换到提供的指针
+D:\c++\vs code\IDE\myStl\my_string.h(111,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c++\vs code\IDE\myStl\my_string.h(177,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c++\vs code\IDE\myStl\my_string.h(199,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c++\vs code\IDE\myStl\my_string.h(423,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\c++\vs code\IDE\myStl\my_string.h(429,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\c++\vs code\IDE\myStl\my_string.h(553,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c++\vs code\IDE\myStl\my_string.h(588,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c++\vs code\IDE\myStl\my_trie.h(31,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\c++\vs code\IDE\myStl\my_algorithm.h(160,8): warning C4244: “-=”: 从“__int64”转换到“int”，可能丢失数据
+D:\c++\vs code\IDE\myStl\my_algorithm.h(169,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c++\vs code\IDE\myStl\my_algorithm.h(169,38): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c++\vs code\IDE\myStl\my_algorithm.h(201,19): warning C4244: “参数”: 从“__int64”转换到“const _Kty”，可能丢失数据
+          with
+          [
+              _Kty=long
+          ]
+D:\c++\vs code\IDE\myStl\my_algorithm.h(201,49): warning C4244: “参数”: 从“__int64”转换到“long”，可能丢失数据
+D:\c++\vs code\IDE\myStl\my_algorithm.h(202,16): warning C4244: “参数”: 从“__int64”转换到“const _Kty”，可能丢失数据
+          with
+          [
+              _Kty=long
+          ]
+D:\c++\vs code\IDE\myStl\my_algorithm.h(202,23): warning C4244: “参数”: 从“__int64”转换到“long”，可能丢失数据
+D:\c++\vs code\IDE\myStl\BigNum.h(130,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c++\vs code\IDE\myStl\BigNum.h(131,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c++\vs code\IDE\myStl\BigNum.h(186,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c++\vs code\IDE\myStl\BigNum.h(345,5): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  207 of 238 functions (87.0%) were compiled, the rest were copied from previous compilation.
+    170 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  myStl.vcxproj -> D:\c++\vs code\IDE\myStl\x64\Release\myStl.exe

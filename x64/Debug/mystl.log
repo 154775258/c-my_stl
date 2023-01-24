@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\c++\vs code\IDE\myStl\my_string.h(46,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\c++\vs code\IDE\myStl\my_string.h(66,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c++\vs code\IDE\myStl\my_string.h(91,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c++\vs code\IDE\myStl\my_string.h(157,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c++\vs code\IDE\myStl\my_string.h(179,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c++\vs code\IDE\myStl\my_string.h(363,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\c++\vs code\IDE\myStl\my_string.h(369,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\c++\vs code\IDE\myStl\my_string.h(333): warning C4715: “to_string”: 不是所有的控件路径都返回值
+D:\c++\vs code\IDE\myStl\my_string.h(360): warning C4715: “to_string”: 不是所有的控件路径都返回值
+D:\c++\vs code\IDE\myStl\my_string.h(400): warning C4715: “to_string”: 不是所有的控件路径都返回值
+  myStl.vcxproj -> D:\c++\vs code\IDE\myStl\x64\Debug\myStl.exe
